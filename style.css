@@ -2,3 +2,11 @@ body {
     background-color: dodgerblue;
     color: white;
 }
+
+p {
+    border: 5px solid white;
+}
+
+h1 {
+    font-size: 50px;
+}
